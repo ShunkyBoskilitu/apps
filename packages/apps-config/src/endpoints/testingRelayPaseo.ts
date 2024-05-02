@@ -69,3 +69,17 @@ export const testRelayPaseo: EndpointOption = {
     logo: chainsPaseoPNG
   }
 };
+
+export const paseoNetwork: EndpointOption = {
+  homepage: 'https://hyperbridge.network',
+  info: 'Paseo',
+  paraId: 4009,
+  providers: {
+    Provider: 'wss://hyperbridge-gargantua-rpc.blockops.network'
+  },
+  text: 'Paseo Network',
+  ui: {
+    color: '#ED6FF1',
+    logo: chainsPaseoPNG
+  }
+};
