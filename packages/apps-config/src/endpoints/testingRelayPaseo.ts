@@ -80,6 +80,6 @@ export const paseoNetwork: EndpointOption = {
   text: 'Paseo Network',
   ui: {
     color: '#ED6FF1',
-    logo: chainsPaseoPNG
+    logo: nodesHyperbridgeSVG
   }
 };
