@@ -75,7 +75,7 @@ export const paseoNetwork: EndpointOption = {
   info: 'Paseo',
   paraId: 4009,
   providers: {
-    Provider: 'wss://hyperbridge-gargantua-rpc.blockops.network'
+    Provider: 'wss://hyperbridge-paseo-rpc.blockops.network'
   },
   text: 'Paseo Network',
   ui: {
