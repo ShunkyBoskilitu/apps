@@ -72,7 +72,7 @@ export const testRelayPaseo: EndpointOption = {
 
 export const paseoNetwork: EndpointOption = {
   homepage: 'https://hyperbridge.network',
-  info: 'Paseo',
+  info: 'hyperbridgePaseo',
   paraId: 4009,
   providers: {
     Provider: 'wss://hyperbridge-paseo-rpc.blockops.network'
